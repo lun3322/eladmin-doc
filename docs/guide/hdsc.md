@@ -262,7 +262,7 @@ public Object queryAll(QueryCriteria criteria, Pageable pageable){
 如：权限不足、数据唯一异常、数据不能为空异常、义务异常等。
 这些异常如果不经过处理会对前端开发人员和使用者造成不便，因此我们就需要统一处理他们。
 
-源码位于：源码位于：``` eladmin-common ``` 模块中的 `exception` 包中
+源码位于：``` eladmin-common ``` 模块中的 `exception` 包中
 
 ### 异常封装
 
